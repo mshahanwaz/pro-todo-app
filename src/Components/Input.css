@@ -1,0 +1,40 @@
+.input {
+  height: 50px;
+  width: 90%;
+  border-radius: 7px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  box-shadow: 0px 2px 1px 0 rgb(0, 0, 0);
+}
+
+.input > input {
+  background: none;
+  border: none;
+  margin: 0 12px;
+  flex: 1;
+  padding: 10px 0;
+}
+
+.input > input:focus {
+  outline: none;
+}
+
+.input > button {
+  margin-right: 8px;
+  background-color: rgb(233, 216, 250);
+  border: none;
+  border-radius: 5px;
+  height: 35px;
+  width: 55px;
+  cursor: pointer;
+}
+
+.input > button:hover {
+  color: white;
+  background-color: rgb(146, 25, 245);
+}
+
+.input > button:focus {
+  outline: none;
+}
