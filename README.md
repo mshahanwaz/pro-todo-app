@@ -1,6 +1,7 @@
 # Todo 2.0 App (PRO)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e137e899-a5c4-406b-b9aa-1a0d398f27cc/deploy-status)](https://app.netlify.com/sites/protodo/deploys)
+
 Second version of Todo app but now in Redux
 
 ## Link: [here](https://protodo.netlify.app/)
